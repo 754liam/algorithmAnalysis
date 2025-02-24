@@ -97,7 +97,7 @@ public class SortingAlgorithm {
         }
         return temp;
     }
-    ////Quick sort methods... uses the original array as a a parameter and returns the amount of exchanges made.
+    //Quick sort methods... uses the original array as a a parameter and returns the amount of exchanges made.
     public static void quickSort(int[] list) {
         quickSort(list, 0, list.length - 1);
     }
