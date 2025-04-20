@@ -136,4 +136,5 @@ public class SortingAlgorithm {
             return first;
         }
     }
+    System.out.println();
 }
